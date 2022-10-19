@@ -21,7 +21,7 @@ void times_table(void)
 			result = n * i;
 			if (result <= 9)
 			{
-				_putchar(',');
+				_putchar(' ');
 			}
 			else
 			{
