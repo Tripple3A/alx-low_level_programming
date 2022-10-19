@@ -3,9 +3,8 @@
 
 /**
   *main - Entry point
-  *Description: prints allsingle digit numbers of
-  *base 10 from 0
-  *Return: Always zero
+  *Description: prints base numbers of digits
+  *Return: zero
   */
 int main(void)
 {
